@@ -92,6 +92,7 @@
     <option name="SPACE_WITHIN_CATCH_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_SWITCH_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
+    <option name="SPACE_BEFORE_METHOD_CALL_PARENTHESES" value="true" />
     <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
